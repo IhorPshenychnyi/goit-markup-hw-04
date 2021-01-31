@@ -376,6 +376,7 @@ a {
   border-radius: 4px;
   width: 100%;
   height: 100%;
+  fill: var(--icons-fill);
 }
 
 .clients-list-link:hover,
